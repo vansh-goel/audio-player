@@ -38,6 +38,7 @@ dependencies = [
 name = "audio_player"
 version = "0.1.0"
 dependencies = [
+ "gdk",
  "gdk-pixbuf",
  "gio",
  "glib 0.10.3",
